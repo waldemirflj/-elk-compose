@@ -1,4 +1,4 @@
-## ELK
+## poc.elk-compose
 Lab de estudo.  
 
 O Elasticsearch é um mecanismo de busca e análise.
